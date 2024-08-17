@@ -30,7 +30,7 @@
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/supermart-console.git
+    git clone https://github.com/patilvikas580/supermart-console.git
     ```
 2. **Navigate to the project directory:**
     ```bash
